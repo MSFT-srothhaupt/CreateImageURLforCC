@@ -1,9 +1,9 @@
-# CreateImageURLforCC
+# Generate a public URL for a Company Communicator Post
 This repo contains a PowerAutomate flow, that provides an URL for an uploaded image.
 It was built as an extension for [Company Communicator](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator) but can easily be adjusted to any use case.
 
 You simply upload a picture in the file section of your Microsoft Teams Team.
-The Flow will generate a URL for the image that you can use to view the image.
+The PowerAutomate flow will generate an URL for the image that you can use to view the image.
 (And include it in a Company Communicator Post).
 
 ### Motivation for this solution:
@@ -18,11 +18,14 @@ That is why I built this flow, that automatically generates a public URL for an 
 ## Requirements
 
 1. The Company Communicator App is already deployed.
-	-This will create an Azure Blob Storage. So the for the flow required Blob Storage is already set up and just needs to be adjusted.
-	-We already have the Authors Team set up. 
-	-The **known** Sharepoint-Site can be used to upload the images.
+	1.1 This will create an Azure Blob Storage. So the for the flow required Blob Storage is already set up and just needs to be adjusted.
+	1.2 We already have the Authors Team set up. 
+	1.3 The **known** Sharepoint-Site can be used to upload the images.
 	
 2. The administrator who deployes the Flow needs access to PowerAutomate and the Premium Connectors. 
-BUT ONLY HIM, The Flow will run on his behalf. So noone else needs the premium license.
+BUT ONLY the admin, The Flow will run on his behalf. So no further premium licenses are required.
 
 ## Deployement Guide
+
+1. Download the PowerAutomate flow [here](https://github.com/MSFT-srothhaupt/CreateImageURLforCC/raw/main/CreateaURLforuploadedimages._20220707142958.zip) if you have not done it so far.
+2. Extract all files from the **ZIP-Folder**.
