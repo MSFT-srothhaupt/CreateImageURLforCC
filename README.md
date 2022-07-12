@@ -14,6 +14,8 @@ Company Communicator authors and users are often challenged by this restriction.
 
 That is why I built this flow, that automatically generates a public URL for an image that is uploaded to Sharepoint.
 
+Here is an overview of the PowerAutomate flow:
+![Flow Overview](https://github.com/MSFT-srothhaupt/CreateImageURLforCC/blob/main/Deployment_Photos/FlowOverview.png)
 
 ## Requirements
 
