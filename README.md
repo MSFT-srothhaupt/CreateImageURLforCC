@@ -8,13 +8,13 @@ The PowerAutomate flow will generate an URL for the image that you can use to vi
 
 ### Motivation for this solution:
 In the standard App Template of the Company Communicator it is required that the image you use in a post is public.
-This means, that the standard sources like e.g. Sharepoint are not the perfect fit, as they require the user to have permission to view the image.
+This means, that the standard sources like e.g. SharePoint are not the perfect fit, as they require the user to have permission to view the image.
 
 Company Communicator authors and users are often challenged by this restriction.
 
 That is why I built this flow, that automatically generates a public URL for an image that is uploaded to Sharepoint.
 
-Here is an overview of the PowerAutomate flow:
+## Here is an overview of the PowerAutomate flow:
 ![Flow Overview](https://github.com/MSFT-srothhaupt/CreateImageURLforCC/blob/main/Deployment_Photos/FlowOverview.png)
 
 ## Requirements
