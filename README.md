@@ -23,7 +23,7 @@ That is why I built this flow, that automatically generates a public URL for an 
 	1.3 The **known** Sharepoint-Site can be used to upload the images.
 	
 2. The administrator who deployes the Flow needs access to PowerAutomate and the Premium Connectors. 
-BUT ONLY the admin, The Flow will run on his behalf. So no further premium licenses are required.
+But ONLY the admin, the flow will run on his behalf. So no further premium licenses are required.
 
 ## Deployement Guide
 
