@@ -15,7 +15,7 @@ Company Communicator authors and users are often challenged by this restriction.
 That is why I built this flow, that automatically generates a public URL for an image that is uploaded to Sharepoint.
 
 Here you can see the normal file upload tab in Microsoft Teams. This is where you upload the image you want to use in your post.
-![File Upload in Microsoft Teams](![Flow Overview](https://github.com/MSFT-srothhaupt/CreateImageURLforCC/blob/main/Deployment_Photos/File%20Upload%20to%20Sharepoint%20in%20Teams.png)
+![File Upload in Microsoft Teams](https://github.com/MSFT-srothhaupt/CreateImageURLforCC/blob/main/Deployment_Photos/File%20Upload%20to%20Sharepoint%20in%20Teams.png)
 
 Here you can see how the Power Automate Flow responds to your upload: It provides this public URL as a clickable hyperlink and as written text and posts it into the Teams channel.
 ![Flow answers in your Teams Channel](https://github.com/MSFT-srothhaupt/CreateImageURLforCC/blob/main/Deployment_Photos/Post%20with%20public%20URL%20in%20Teams%20Channel.png)
