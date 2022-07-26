@@ -31,4 +31,6 @@ But ONLY the admin, the flow will run on his behalf. So no further premium licen
 ## Deployement Guide
 
 1. Download the PowerAutomate flow [here](https://github.com/MSFT-srothhaupt/CreateImageURLforCC/raw/main/CreateaURLforuploadedimages._20220707142958.zip) if you have not done it so far.
-2. Follow this [Video Guide](https://sway.office.com/KkO98zMl9YgZPeHD?ref=Link)
+2. Follow this [Video Guide](https://sway.office.com/2LuEFfKSBU9yIWiw?ref=Link)
+
+
