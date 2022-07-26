@@ -21,9 +21,9 @@ That is why I built this flow, that automatically generates a public URL for an 
 ## Requirements
 
 1. The Company Communicator App is already deployed.
-1.1 This will create an Azure Blob Storage. So the for the flow required Blob Storage is already set up and just needs to be adjusted.
-1.2 We already have the Authors Team set up. 
-1.3 The **known** Sharepoint-Site can be used to upload the images.
+- This will create an Azure Blob Storage. So the for the flow required Blob Storage is already set up and just needs to be adjusted.
+- We already have the Authors Team set up. 
+- The **known** Sharepoint-Site can be used to upload the images.
 	
 2. The administrator who deployes the Flow needs access to PowerAutomate and the Premium Connectors. 
 But ONLY the admin, the flow will run on his behalf. So no further premium licenses are required.
@@ -31,4 +31,4 @@ But ONLY the admin, the flow will run on his behalf. So no further premium licen
 ## Deployement Guide
 
 1. Download the PowerAutomate flow [here](https://github.com/MSFT-srothhaupt/CreateImageURLforCC/raw/main/CreateaURLforuploadedimages._20220707142958.zip) if you have not done it so far.
-2. Extract all files from the **ZIP-Folder**.
+2. Follow this Video Guide.
